@@ -1,0 +1,15 @@
+# Example targets file for Security Scanner
+# Add one target per line (URLs, domains, or IP addresses)
+# Lines starting with # are comments
+
+# Example domains
+# example.com
+# test.example.com
+
+# Example URLs
+# https://example.com
+# http://192.168.1.1
+
+# Example IPs
+# 192.168.1.100
+# 10.0.0.1
